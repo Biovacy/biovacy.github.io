@@ -1,37 +1,7 @@
-h3 {
-    text-align: center;
-    color: black;
+body {
+    background-color: black;
 }
 
-.input_container {
-    height:33%;
-    display: flex;
-    justify-content: center;
-    align-items:center;
-}
-
-.character_class {
-    color: #000000;
-    background-color: #CCCCCC;
-    height: 30px;
-    text-align: center;
-    white-space: pre;
-}
-
-.between_class {
-    background-color: #FFFFFF;
-    height: 2px;
-    text-align: center;
-}
-
-.hex_only {
-    border: 1px solid black;
-    text-align: center;
-}
-
-.info {
-    background-color: #000000;
-    color: #FFFFFF;
-    width: 5%;
-    text-align: center;
+p {
+    color: white;
 }
